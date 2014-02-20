@@ -1,0 +1,11 @@
+{
+  "name": "yields-svg-create",
+  "description": "Create SVG elements",
+  "version": "0.0.1",
+  "keywords": [
+    "svg"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
